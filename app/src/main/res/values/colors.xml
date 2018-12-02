@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37B6ED</color>
+    <color name="colorPrimaryDark">#3a2fa4</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkgray">#6c6c6c</color>
+
+    <color name="backGroundColor">#607D8B</color>
+    <color name="backGroundColor2">#78909C</color>
+    <color name="txtColor1">#263238</color>
+    <color name="txtColor2">#424242</color>
+    <color name="txtColor3">#f5f5f5</color>
+    <color name="txtColor4">#FAFAFA</color>
+    <color name="loginButtonColor">#00BFA5</color>
+    <color name="loginButtonTxtColor">#FAFAFA</color>
+    <color name="userColor1">#26C6DA</color>
+
+    <!--this all colors home circle icon-->
+    <color name="yello">#FFb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="pink">#ff4081</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="black">#2F4F4F</color>
+
+    <color name="colorpressed">#435c5c</color>
+
+
+    <color name="red">#f15050</color>
+    <color name="red_dark">#d43c3c</color>
+    <color name="yellow1">#eed45a</color>
+    <color name="yellow_dark1">#d4bb46</color>
+    <color name="lime">#bce24a</color>
+    <color name="lime_dark">#9dbf35</color>
+    <color name="green1">#48d26b</color>
+    <color name="green1_dark">#36b957</color>
+    <color name="blue">#48dfe1</color>
+    <color name="blue_dark">#37c4c6</color>
+    <color name="darkblue">#5a9cee</color>
+    <color name="darkblue_dark">#417eca</color>
+    <color name="darkviolet">#7e50f1</color>
+    <color name="darkviolet_dark">#683dd4</color>
+    <color name="violet">#d65aee</color>
+    <color name="violet_dark">#b33ec9</color>
+</resources>
